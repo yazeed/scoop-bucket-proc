@@ -1,12 +1,12 @@
 {
-    "version": "1.13.1",
+    "version": "1.13.2",
     "description": "Semantic CLI tool for process management. Target by port, PID, name or path.",
     "homepage": "https://github.com/yazeed/proc",
     "license": "MIT",
     "architecture": {
         "64bit": {
-  "url": "https://github.com/yazeed/proc/releases/download/v1.13.1/proc-windows-x86_64.exe.zip",
-  "hash": "e19a132aa376ce8c0360decb5a6d0f6f3a6d9ec8ce2b8c5ebaeb687c0322917f"
+  "url": "https://github.com/yazeed/proc/releases/download/v1.13.2/proc-windows-x86_64.exe.zip",
+  "hash": "b1706e1452507e09966dec0815fa915f3760959431c5f28d7c59b9715dc116b9"
         }
     },
     "bin": [["proc-windows-x86_64.exe", "proc"]],
