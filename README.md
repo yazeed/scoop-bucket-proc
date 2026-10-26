@@ -6,7 +6,7 @@
 [![Tests](https://github.com/yazeed/scoop-bucket-proc/actions/workflows/ci.yml/badge.svg)](https://github.com/yazeed/scoop-bucket-proc/actions/workflows/ci.yml)
 [![Excavator](https://github.com/yazeed/scoop-bucket-proc/actions/workflows/excavator.yml/badge.svg)](https://github.com/yazeed/scoop-bucket-proc/actions/workflows/excavator.yml)
 
-[Scoop](https://scoop.sh) bucket for [proc](https://github.com/yazeed/proc-cli).
+[Scoop](https://scoop.sh) bucket for [proc](https://github.com/yazeed/proc-cli): semantic CLI tool for process management. Target by port, PID, name or path.
 
 ## Install
 
@@ -23,4 +23,6 @@ scoop update proc
 
 ## Documentation
 
-**[Full documentation on GitHub](https://github.com/yazeed/proc-cli)**
+- **Website:** [proc-cli.com](https://proc-cli.com)
+- **Source, issues and releases:** [github.com/yazeed/proc-cli](https://github.com/yazeed/proc-cli)
+- **Other install options** (Homebrew, cargo, npm, Nix, Docker): [proc-cli.com/install](https://proc-cli.com/install)
